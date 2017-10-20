@@ -1,11 +1,12 @@
 package main
 
 import (
-	"echodemo/conf"
-	"echodemo/router"
-	"echodemo/service"
-	"github.com/donnie4w/go-logger/logger"
+	"mugg/conf"
+	"mugg/router"
+	"mugg/service"
 	"os"
+
+	"github.com/donnie4w/go-logger/logger"
 )
 
 func main() {
